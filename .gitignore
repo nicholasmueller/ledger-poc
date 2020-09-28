@@ -3,9 +3,6 @@ node_modules
 *.pem
 browser/
 dbdata/
-packages/**/lib/
-packages/**/lib-es/
-packages/**/dist/
 flow-typed/
 lerna-debug.log
 lerna-error.log
